@@ -1,4 +1,4 @@
-# **_Eviscerate.Persist.Intimidate-**
+# **Eviscerate.Persist.Intimidate**
 ## E.P.I
 
 To repozytorium zawiera projekt napisany w języku C# na silniku Unity Engine. Jego tematem jest implementacja gry typu Space Invaders (dwuwymiarowej strzelanki). 
