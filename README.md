@@ -55,14 +55,14 @@ Gra kończy się w momencie:
 
 ## Screeny 
 
-**Menu Start**
-![MenuStart](https://imgur.com/YHAuN1X)
+**Menu Start**<br></br>
+![MenuStart](https://github.com/EPI2023/ProjektWDP/blob/main/menu.png)
 
-**Gameplay**
-![Gameplay](https://imgur.com/nFMR2Lw)
+**Gameplay**<br></br>
+![Gameplay](https://github.com/EPI2023/ProjektWDP/blob/main/gameplay.png)
 
-**Ending Screen**
-![EndingScreen](https://imgur.com/JReyive)
+**Ending Screen**<br></br>
+![EndingScreen](https://github.com/EPI2023/ProjektWDP/blob/main/wygrana.png)
 
 ## Źródła
 
