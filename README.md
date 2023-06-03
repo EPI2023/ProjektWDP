@@ -1,4 +1,4 @@
-# **Eviscerate Persist Intimidate**
+# Eviscerate Persist Intimidate
 ## EPI
 
 To repozytorium zawiera projekt napisany w języku C# na silniku Unity Engine. Jego tematem jest implementacja gry typu Space Invaders (dwuwymiarowej strzelanki). 
@@ -7,7 +7,7 @@ To repozytorium zawiera projekt napisany w języku C# na silniku Unity Engine. J
 
 ## Opis
 
-Eviscerate Persist Intimidate to zręcznościowa gra wideo wzorowana na retro klasyku - Space Invaders (Japoński:スペースインベーダー), który został stworzony przez Tomohiro Nishikado i wydany w 1978 roku. 
+Eviscerate Persist Intimidate to zręcznościowa gra wideo wzorowana na retro klasyku - Space Invaders (Japoński: スペースインベーダー), który został stworzony przez Tomohiro Nishikado i wydany w 1978 roku. 
 
 To jedna z najstarszych strzelanek, której celem jest pokonanie fal kosmitów działem laserowym, aby zdobyć jak najwięcej punktów.
 
@@ -15,27 +15,27 @@ To jedna z najstarszych strzelanek, której celem jest pokonanie fal kosmitów d
 
 ## Rozgrywka
 
-# Cel
+### Cel
 
 Zadaniem gracza jest pokonanie pięciu rzędów jedenastu najeźdców (3 różych rodzajów). 
 
 Fale kosmitów zbliżają się do dolnej części ekranu odbijając się poziomo od bocznych krawędzi mapy.
 
-# Sterowanie
+### Sterowanie
 
 Gracz kieruje statkiem z działem laserowym, za pomocą strzałek, przesuwając je poziomo po dolnej części ekranu i strzelając do atakujących kosmitów. 
 
-**Ruch w lewo - lewa strzałka/a; Ruch w prawo - prawa strzałka/d; Strzał - spacja.**
+**Ruch w lewo - lewa strzałka/A ; Ruch w prawo - prawa strzałka/D ; Strzał - spacja**
 
-# Punktacja
+### Punktacja
 
-Gracz pokonuje kosmitów i jest liczona każda sekunda przeyżyta na mapie. 
+Gracz pokonuje kosmitów i liczona jest każda sekunda przeżyta na mapie. 
 
-Im więcej kosmitów zostaje pokonanych, tym szybciej się poruszają.
+Im więcej kosmitów zostaje pokonanych tym szybciej się poruszają.
 
 Czas liczony jest od 0.
 
-# Życia 
+### Życia 
 
 **Gracz ma 1 życie.**
 
@@ -46,10 +46,10 @@ Gracz traci życie w momencie:
 
 Po każdej utracie życia plansza ulega resetowi.
 
-# Finał
+### Finał
 
 Gra kończy się w momencie:
-
+ 
 - wyeliminowania wszystkich kosmitów
 - strącenia Statku-Matki
 
@@ -68,7 +68,7 @@ Gra kończy się w momencie:
 
 [1] [Wikipedia - Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
 
-# Autorzy: Kosma Kierek / Michał Ogiba
-# Silnik: Unity Engine
-# Język: C#
-# Hotel: Trivago
+**Autorzy: Kosma Kierek / Michał Ogiba**<br></br>
+**Silnik: Unity Engine**<br></br>
+**Język: C#**<br></br>
+**Hotel: Trivago**
